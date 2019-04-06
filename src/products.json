@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "title": "Champ Burger",
+        "image": "https://previews.123rf.com/images/magone/magone1708/magone170800425/84917958-fresh-tasty-burger-isolated-on-white-background.jpg",
+        "price": 69.00
+    },
+    {
+        "id": 2,
+        "title": "Crispy Fries",
+        "image": "https://previews.123rf.com/images/igordutina/igordutina1301/igordutina130100023/17285219-french-fries-fried-potato-isolated-on-white-background.jpg",
+        "price": 55.00
+    },
+    {
+        "id": 3,
+        "title": "Jumbo Hotdog",
+        "image": "https://previews.123rf.com/images/baibaz/baibaz1310/baibaz131000014/22916397-hot-dog-with-ketchup-and-mustard-on-white-background.jpg",
+        "price": 69.00
+    },
+    {
+        "id": 4,
+        "title": "Sliced Pizza",
+        "image": "https://previews.123rf.com/images/foodandmore/foodandmore1609/foodandmore160900125/62635340-top-view-of-a-slice-of-margherita-italian-pizza-with-melted-mozzarella-and-sliced-tomato-on-a-crispy.jpg",
+        "price": 49.00
+    },
+    {
+        "id": 5,
+        "title": "Cheesy Spaghetti",
+        "image": "https://previews.123rf.com/images/seregam/seregam1403/seregam140300205/26295593-pasta-spaghetti-macaroni-isolated-on-white-background.jpg",
+        "price": 99.00
+    },
+    {
+        "id": 6,
+        "title": "Fried Chicken",
+        "image": "https://previews.123rf.com/images/siraphol/siraphol1407/siraphol140707353/30050964-fried-chicken-isolated-white-background.jpg",
+        "price": 145.00
+    }
+]
